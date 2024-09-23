@@ -1,58 +1,11 @@
 java c
-   MN7032SR
-Marketing in the Digital World       
-   
-   Academic Year 2024/25
-Assessment 2
-Individual Report 
-Word counts: 2,000 (+/-10%)
-First Marker: 
-Second Marker: 
-Title of report: Marketing Plan of ComfortAir Plc. Assessment criteriaLevel of achievement 1st Marker2nd Marker
-Executive Summary and Recommendations
-(15 marks)An overview of the key points and recommendations. (15 marks)         
-Set   and   justify   Marketing   Objectives
-(10 marks)
-      
-Provide a practical   outline of SMART marketing
-objectives in line with the organisation’s objectives that are fully justified
-(10 Marks)
-   
-   
-   
-   
+MN7032SR 
+Marketing in the Digital World 
+Spring 2024 
+Module DescriptionMarketing is important for all organisations and is concerned with retaining customers and delivering value to stakeholders, that is, to everyone who is affected by a transaction. It directs organisations into new markets and opportunities while maintaining and developing existing customers. This module is intended to help develop knowledge concerning the nature and character of marketing as well as sales in an international context, capitalising on current and emerging technologies.The interdependence of economies and increasingly globalised marketing reflects the trend of organisations designing, distributing and selling products and services in many markets around the world.The primary role of marketing management in any organisation is to design and execute effective marketing programmes in local, international and global markets,The module aims to: ·   Provide a solid appreciation of marketing as practiced in the international arena.·   Enhance understanding of the relationships between an organisation, the markets it is serving and its key stakeholders.·   Provide an integrated overview of marketing management, using topical issues, thought leadership and research findings.·   Offer a broad platform. of marketing concepts, theories and frameworks, which can be applied in practical situation·   Explore the impact of the drive towards digital applications and deliveryLearning Outcomes After successfully completing this module, students will be able to:1.   Critically evaluate marketing activities and offer recommendations for improvement2.   Critically analyse potential markets for development, applying a systematic understanding of the marketing theories to complex situations while considering the impact of technology in effective marketing decision-making.3.   Communicate marketing messages in a creative and compelling manner while utilising the principles of Segmentation, Targeting and Positioning.Indicative syllabus Lesson Topic 1. 1. Introduction to Marketing a. What is Marketing  b. The Buying Cycle concept  c. Key concepts 2.  2. The Global Marketplace  a. Environment b. Information Systems and Marketing Research  c. Marketing Analytics, the Era of Big Data 3. 3. Segmentation, Targeting, Positioning (STP) a. The imperative of effective STP b. International Product / Brand Positioning  c. Power Shifts to the Connected Customers i. From Individual to Social  ii. From Exclusive to Inclusive  4. 4. Developing Value a. New Products and Services i. B2C ii. B2B  5. 5. Communicating Value a. Communication strategies b. Advertising, PR and Sales Promotions c. Social Networks 6. 6. Pricing Value a. Pricing strategies  b. Role of marketing analytics in pricing decisions  7. 7. Delivering Value a. Distribution Strategies  b. Channels c. Physical Distribution 8. 8. Market Entry Strategies  9.  9. International Sales  a. Products and Services b. B2C  c. B2B 10. 10.  Marketing and the Impact of the Digital Revolution  a. From Traditional to Digital Marketing b. Integrating Traditional and Digital Marketing 11.  11. The new Customer Path  a. Understanding How People Buy b. Driving from Awareness to Advocacy: The O Zone (O3)  c. The 5 As: Aware, Appeal, Ask, Act, and Advocate  12. 12. Marketing Planning a. Strategic Competitive Advantage b. Bringing the marketing mix together  c. The Marketing Plan in the Digital Era  d. Recap  Indicative bibliography and key on-line resources Textbooks:Core Text:Green M.C., and Keegan W.J, (2020) Global Marketing, 10e, , PearsonOther Texts:Solomon M.R., Marshall G.W,  Stuart E.W., (2019) Marketing: Real People, Real    Choices Global Edition, 9/E, PearsonJournals:•	European Journal of Marketing•	Academy of Management Journal•	Academy of Management Review•	Journal of Product and Brand Management•	Journal of Islamic Marketing•	International Marketing Review•	Business Strategy Review•	California Management Review•	European Management Review•	Harvard Business Review•	Journal of Business Research•	Journal of International Marketing•	Journal of Management•	Management Decision•	Sloan Management Review•	Strategic Management JournalWebsites:• Digital brand engagement: www.digitalbrandengagement.ning.com• McKinsey Digital Marketing: http代 写MN7032SR Marketing in the Digital World Spring 2024 R
+代做程序编程语言s://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients• McKinsey Internet of Things : https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/ten-trends-shaping-the-internet-of-things-business-landscape• The Institute of Direct Marketing: http://www.theidm.com • The Direct Marketing Association: www.dma.org.uk • The Chartered Institute of Marketing www.cim.co.uk • Dave Chaffey: www.davechafey.com/students and www.smartinsights.com • New Media Age: www.nma.co.uk • Brand Republic: www.branrepublic.com/go/digitalmarketing • i-advertising: www.i-advertising.com • Financial Times: https://www.ft.com/technology • Guardian: www.guardian.co.uk/media/digital-media • LED – The internet marketing discussion list: www.led-digest.com • eMarketer: www.emarketer.com Description of Assessment  Assessment 1: Weighting 40%. Group Report Students will be required to analyse the given case, ComfortAir plc. and critically assess its current digital marketing activities and using appropriate theories suggest justified and measurable improvements.Assessment 2: Weighting 60%. Individual Report The second assessment requires the student to prepare a marketing plan for ComfortAir plc. In creating the marketing plan the student will address LO 2 and 3.Submission Dates  For each assignment you will be given a deadline date and details of how to submit that piece of work. If you miss your submission opportunity without mitigating circumstances, your resit submission grade will be capped.Assignment 1 and 2 Due Date:·   Group ppt slides submission via Canvas start from 24 April 2024 @ 2359 hours (GMT+8 Singapore Time). Presentation commences on 2 May 2024.    Arrangement to be advised by lecturer.·   Individual Report submission via Canvas starting from 14 June 2024 @ 2359 hours and end on 28 June 2024 @ 2359 hoursHow is your work marked? To pass the module you must achieve an overall minimum mark of 50%. If you pass the module on re-assessment, the component you resit will be capped at a pass mark level of 50%.The marking process makes sure that our marking of your work is fair and transparent. There is a first marker responsibility for giving your formal feedback and making an initial assessment of the standard of your work by giving it a provisional mark. After this there are two further layers of checking and assurance. It is worth noting that this process means that you are unable to appeal your final marks and/or grades on the grounds of academic judgement.You will be marked, graded and assessed according to the following PG criteria: Class Mark % Characteristics Distinction 70 + Excellent in every way.    Knowledgeable, incisively analytical, conceptually sound, widelyresearched and well-structured.    Displays a critical and sophisticated understanding of ideas, debates, methodologies and principles.    Comprehensively cited and referenced.    A degree of flair apparent in the work. Merit 60 - 69 Very good, well-researched, solid.    Addresses question.    Sensibly structured and well presented.    Evidence of analysis, reasoning and evaluation.    May have some errors in emphasis but not in fact, and may be limited in terms of supporting material and breadth of coverage.    Appropriately cited and referenced. Pass 50 - 59 Average to good.    Reasonable bibliography.    Signs of effort, though more descriptive than analytical.    May have some errors but balanced by sound work.    May not fully address the question with deficiencies in knowledge and understanding or directness and organisation. Fail 40 - 49 Fail. Descriptive narrative.    May be partly irrelevant.    Indiscriminate.    Lacks structure.    Could be more direct and explicit.    Little independent research evident.    Short bibliography.  May be confused or irrelevant.    Heavily based on lecture notes, but a minimum of understanding to justify a pass.    Answers by inference. Fail 0 - 39 Poor.    Does not answer question directly.    Little evidence of independent reading or lecture notes.    Major errors or too brief.    Unstructured.  Very poor indeed.    Fails in every respect to answer the question effectively.    No evidence of learning, reading or knowledge.    Largely irrelevant.    Very brief. 
 
 
-   
-Positioning strategies given the   target   audience
-(15 marks)
-Demonstrate a clear understanding of the targeting strategy that leads to the positioning of the company: Justify your targeting and positioning strategy using models such as STP (10 marks)   
-Show a positioning map with key competitors including competitive scene in mind to   support   the   airline’s   launch
-(5 marks)               
-   
-Marketing Mix: Produ代 写MN7032SR Marketing in the Digital World Assessment 2Web
-代做程序编程语言ct / Service Plan, Distribution Channels, Pricing, Communications.
-(25 marks)1.   Provide a Customer Value Proposition based on STP analysis. (10 marks)2.   Provide recommendations   on the marketing   mix (4Ps + 3Ps)   for ComfortAir Plc.(15 marks)   
-   Market   Entry   Options(15 marks)Provide recommendations regarding the market entry strategies (10 marks)Part of your recommendations should include a justification of your suggested market entry method (5 marks)   
-   Outline   Controls   and   Metrics(10 marks)What Metrics and Key Performance Indicators would you use? (5 marks)List the key risks and contingency plans(5 marks)   
-   Presentation(10 marks)1.   Appropriate academic writing and language 2.   In-text citation and referencing (10 marks)   
-   Total (100 marks)       Areas for Improvements
-From First Marker
-Knowledge and understanding
-
-
-Analysis and evaluation
-
-
-From Second Marker
-Knowledge and understanding
-
-
-Analysis and evaluation
-   
-Agreed Mark
-First marker’s marks/date: 
-Second marker’s marks/date:   
 
 
          
